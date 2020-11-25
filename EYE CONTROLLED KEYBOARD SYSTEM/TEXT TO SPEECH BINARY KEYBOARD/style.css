@@ -1,0 +1,55 @@
+.button {
+    background-color: #3C6F51;
+    border: 5px solid #000000;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1 {width: 250px; height: 425px;}
+.button2 {width: 250px; height: 425px;}
+.button3 {width: 750px; height: 88px;}
+.button4 {width: 750px; height: 84px;}
+
+#extra{
+    background-color: #FFFFFF;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 750px;
+    height: 1px;
+}
+#disp {
+    text-align: center;
+    font-size: 30px;
+
+}
+#mytext{
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    border: 3px solid red;
+    border-radius: 5px;
+    width: 20px;
+    height: 30px;
+}
+#finaltext{
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    border: 2px solid red;
+    border-radius: 5px;
+    width: 550px;
+    height: 35px;
+}
