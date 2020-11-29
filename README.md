@@ -22,8 +22,26 @@ PROBLEMS FACED:
 **Our app is powered by an IoT device, an image processing algorithm, and AI. This app can act as a monitor for patients at home who are suffering from illness and require special attention from caretakers/guardian and doctors at home.**
 Our App keeps the track of patient’s health factors like (BODY TEMPERATURE AND HEARTBEAT) for doctors and patients’ caretakers at home, which are monitored using hardware IoT sensors. also we have built a robot to transfer essential good to patients keeping social distancing in mind (Due to COVID19) which moves following gestures by hand. Also this can be used as a wheelchair for week senior citizen patients and cerebral palsy people with paralysis. And in final touch we devised an Image learning algorithm which is connected to the firebase cloud storage and give alerts in app when the patient make face gesture, or when there is a DROOLING action in cerebral palsy patients, to call for help since they can’t speak distinctly and moving their mouth, or a simple gesture will do good for these patients.
 
-**Summing up the features:**
+**Summing up the features and app architecture:**
 ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/features.png)
+
+
+![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/architecture.png)
+
+
+![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/architecture1.png)
+
+We are using an ***ESP8266 microcontroller*** to connect the device with the cloud and with the image processing system. And our app is also connected with the same cloud storage so if patient will make gestures, an alarm will ring in the app. Also the temperature and heartbeat reading will be sent to cloud in real-time basis and all of this will be available in our app through which doctor can make report of patients following social distancing.
+
+| Hardware 1 | Hardware 2 | 
+| --- | --- | 
+| ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/sensor2.png) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/sensor2.png) |  
+| Temperature sensing device setup | Heartbeat/pulse sesing device setup |
+
+***All this hardware setup would be mounted on a wheelchair or on the rest/bed for the patient in th emost efficient way***
+
+
+
 
 **An alarm is sounded to the caretaker/doctor using the app.**
 1. When the heartbeat/pulse crosses a threshold.
@@ -81,18 +99,50 @@ Features we provide:
 ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/eye_control.png)
 
 
-## What we plan to implemement for MediChat in the future ?
+### What we plan to implemement for MediChat in the future ?
 1. Implementing a news section wherein people get daily updates about trends in medicine, COVID cases by calling an external APIs.
 2. Implementing Speech to text NLP engine wherein we can leverage Natural Language Processing techniques and tools like Facebook's Wit.ai to capture the intent of the doctors communicated message and update patient records in the UI in discrete fields like medical prescription, surgery, patient history, along with the timestamp, so that doctors don't face a burnout by having to spend time writing patient records on paper/documents but it can be updated using Speech to Text.
 
 
-### Model to detect allergic ingredients in your food by scanning and identifying the type of food and printing the warning if any
+
+## Model to detect allergic ingredients in your food by scanning and identifying the type of food and printing the warning if any
 ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/food_allergies.png)
 
-### A UNIQUE DATA VIZ FOR FOOD ALLERGY MODEL
+
+## A UNIQUE DATA VIZ FOR FOOD ALLERGY MODEL
 Data analysis on various foods from plant and animal sources and plots and conclusions provided
 ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/DV1.png)
 ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/DV1.png)
 ![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/DV1.png)
+
+## Entity Extraction using Natural Language processing
+***Extracting disease labels from clinical reports***
+1. Text matching
+2. Evaluating a labeler
+3. Negation detection
+4. Dependency parsing
+
+1. Question Answering with BERT
+2. Preprocessing text for input
+3. Extracting features/answers from model output.
+
+***What is BERT Language model?***
+Bidirectional Encoder Representations from Transformers (BERT) is a Transformer-based machine learning technique for natural language processing pre-training developed by Google. BERT was created and published in 2018 by Jacob Devlin and his colleagues from Google
+
+![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/BERT.png)
+
+
+## Data analysis and plots involving clustering algorithms with the SYNTHEA datasets provided
+![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/observation.jpg)
+
+## COST BREAKDOWN (approx)
+
+SMALL PC WITH WEBCAM- $170
+ROBOCARE APP- FREE OF COST -- cosnidering everybody has/owns a smartphone
+WEBAPP COST – DOCTORS CONSULTATION FEES ONLY
+FOOD ALLERGIC DETECTION SYSTEM INSTALLED IN PC
+WHEELCHAIR HAND GESTURE MECHANISM: $71
+
+TOTAL COST OF SYSTEM: $241 (Approx)
 
 
