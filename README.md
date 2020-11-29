@@ -15,7 +15,7 @@ PROBLEMS FACED:
 
 | Screen1 | Screen 2 | Screen 3 |
 | --- | --- | --- |
-| ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/splashUI.jpg) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/dashboard.png) | https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/splashUI.jpg | ![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/cv.png) |
+| ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/splashUI.jpg) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/dashboard.png) |  ![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/cv.png) |
 | SplashUI Screen | Dashboard storing patient data | Computer vision to detect distress or drooling in cerebral pasly patients |
 
 
