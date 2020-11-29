@@ -62,7 +62,7 @@ Doctors can't handle countless phonecalls, and also can't attend each patient pe
 
 2. We also provide a private chat feature where the patients can personally message other patients, doctors as private chat and get their personal health, problems solved. 
 
-3. Thus with this system we can raise a general health awareness among the population of the country which can help curb or prevent the spread of viruses and other infections by seeking medical guidance from health experts.
+3. Thus with this system we can raise a general health awareness among the population of the country which can help curb or prevent the spread of viruses and other infections by seeking medical guidance from health expertsChat UI - Create channels, discuss health issues and chat privately to doctors, recieve updates & notification, share media |.
 
 Features we provide:
 1. Register and Login
@@ -137,12 +137,12 @@ Bidirectional Encoder Representations from Transformers (BERT) is a Transformer-
 
 ## COST BREAKDOWN (approx)
 
-SMALL PC WITH WEBCAM- $170
-ROBOCARE APP- FREE OF COST -- cosnidering everybody has/owns a smartphone
-WEBAPP COST – DOCTORS CONSULTATION FEES ONLY
-FOOD ALLERGIC DETECTION SYSTEM INSTALLED IN PC
-WHEELCHAIR HAND GESTURE MECHANISM: $71
+1. SMALL PC WITH WEBCAM- $170
+2. ROBOCARE APP- FREE OF COST -- cosnidering everybody has/owns a smartphone
+3. WEBAPP COST – DOCTORS CONSULTATION FEES ONLY
+4. FOOD ALLERGIC DETECTION SYSTEM INSTALLED IN PC
+5. WHEELCHAIR HAND GESTURE MECHANISM: $71
 
-TOTAL COST OF SYSTEM: $241 (Approx)
+**TOTAL COST OF SYSTEM: $241 (Approx)**
 
 
