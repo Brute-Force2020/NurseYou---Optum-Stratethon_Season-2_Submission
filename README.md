@@ -57,5 +57,5 @@ Features we provide:
 
 | Register | Login | ChatSpace |
 | --- | --- | --- |
-| ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/register.jpg) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/login.png) |  ![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/medichat.png) |
+| ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/register.png) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/login.png) |  ![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/medichat.png) |
 | Register New Users | Login User | Chat UI - Create channels, discuss health issues and chat privately to doctors, recieve updates & notification, share media |
