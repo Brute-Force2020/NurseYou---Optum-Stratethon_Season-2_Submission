@@ -64,9 +64,10 @@ Features we provide:
 | Register New Users | Login User | Chat UI - Create channels, discuss health issues and chat privately to doctors, recieve updates & notification, share media |
 
 ***Support for patients with Color Blindness***: Change UI color Themes comfortable to the eye (for color blind syndrome) in patients.
+| Theme 1 | Theme 2 |
 | --- | --- |
 | ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/UI1.png) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/UI2.png) |
 
 ***We have also developed a special keyboard for typing for handicapped users that can be operated using eye-ball tracker and operates in O(logn) time complexity just like binary search and also has a google search functionality added to it.***
 ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/keyboard.png)
-![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/eye control.png)
+![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/eye_control.png)
