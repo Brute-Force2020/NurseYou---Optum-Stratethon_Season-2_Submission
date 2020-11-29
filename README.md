@@ -22,6 +22,9 @@ PROBLEMS FACED:
 **Our app is powered by an IoT device, an image processing algorithm, and AI. This app can act as a monitor for patients at home who are suffering from illness and require special attention from caretakers/guardian and doctors at home.**
 Our App keeps the track of patient’s health factors like (BODY TEMPERATURE AND HEARTBEAT) for doctors and patients’ caretakers at home, which are monitored using hardware IoT sensors. also we have built a robot to transfer essential good to patients keeping social distancing in mind (Due to COVID19) which moves following gestures by hand. Also this can be used as a wheelchair for week senior citizen patients and cerebral palsy people with paralysis. And in final touch we devised an Image learning algorithm which is connected to the firebase cloud storage and give alerts in app when the patient make face gesture, or when there is a DROOLING action in cerebral palsy patients, to call for help since they can’t speak distinctly and moving their mouth, or a simple gesture will do good for these patients.
 
+**Summing up the features:**
+![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/features.png)
+
 **An alarm is sounded to the caretaker/doctor using the app.**
 1. When the heartbeat/pulse crosses a threshold.
 2. When the body temperature is above the normal body temperature
@@ -53,9 +56,17 @@ Features we provide:
 7. Change your avatar and also see if the other users are available(online) for chat, so that the patients can solve their health issues online in real time.
 8. See message timestamp and elapsed time of conversation
 9. Auto scroll using Search feature to see and previous messages, newest conversations
-10. Support for patients with Color Blindness : Our UI also allows patients to change the primary and secondary UI colors so that they can clearly distinguish between the elements present in the UI and choose an interface with colors friendly to the eye.
+10. ***Support for patients with Color Blindness*** : Our UI also allows patients to change the primary and secondary UI colors so that they can clearly distinguish between the elements present in the UI and choose an interface with colors friendly to the eye.
 
 | Register | Login | ChatSpace |
 | --- | --- | --- |
 | ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/register.png) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/login.png) |  ![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/medichat.png) |
 | Register New Users | Login User | Chat UI - Create channels, discuss health issues and chat privately to doctors, recieve updates & notification, share media |
+
+***Support for patients with Color Blindness***: Change UI color Themes comfortable to the eye (for color blind syndrome) in patients.
+| --- | --- |
+| ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/UI1.png) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/UI2.png) |
+
+***We have also developed a special keyboard for typing for handicapped users that can be operated using eye-ball tracker and operates in O(logn) time complexity just like binary search and also has a google search functionality added to it.***
+![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/keyboard.png)
+![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/eye control.png)
