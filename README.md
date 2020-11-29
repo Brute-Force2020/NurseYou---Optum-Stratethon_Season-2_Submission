@@ -26,3 +26,36 @@ Our App keeps the track of patient’s health factors like (BODY TEMPERATURE AND
 1. When the heartbeat/pulse crosses a threshold.
 2. When the body temperature is above the normal body temperature
 3. When the patient shows signs of distress monitored by a camera and detected by image processing algorithms and AI detecting (open mouth gesture) which indicates drooling in cerebral palsy patients and discomfort in elderly handicapped people.
+
+## Medichat -- A slack for patients and doctors
+PROBLEMS FACED:
+
+1. India facing shortage of 600,000 doctors, 2 million nurses: Study. High out-of-pocket medical costs to the patient are compounded by limited government spending for health services, according to the report by the Center for Disease Dynamics, Economics & Policy (CDDEP) in the US
+
+2. Due to the pandemic, a large number of people are not able to travel to the medical facility. Also due to the shortage of nurses, there are not enough caretakers for patients at home especially the elderly/children in remote areas.
+Doctors can't handle countless phonecalls, and also can't attend each patient personally. 
+
+**What we provide ?**
+
+1. We provide a common platform for doctors and nurses to form health groups/channels like diabetes, mental health, COVID-19, etc so that patients suffering from a common disease can signup and meet doctors from differnet parts of the country and the world and seek medical advice.
+
+2. We also provide a private chat feature where the patients can personally message other patients, doctors as private chat and get their personal health, problems solved. 
+
+3. Thus with this system we can raise a general health awareness among the population of the country which can help curb or prevent the spread of viruses and other infections by seeking medical guidance from health experts.
+
+Features we provide:
+1. Register and Login
+2. Create channels for health and discuss important health issues.
+3. Share health tips, prescriptions, directions for medication, etc
+4. Chat privately
+5. upload media in JPG, PNG format, can be used to share medicine photos, prescriptions, etc.
+6. Star your favorite channels for referring and using later
+7. Change your avatar and also see if the other users are available(online) for chat, so that the patients can solve their health issues online in real time.
+8. See message timestamp and elapsed time of conversation
+9. Auto scroll using Search feature to see and previous messages, newest conversations
+10. Support for patients with Color Blindness : Our UI also allows patients to change the primary and secondary UI colors so that they can clearly distinguish between the elements present in the UI and choose an interface with colors friendly to the eye.
+
+| Register | Login | ChatSpace |
+| --- | --- | --- |
+| ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/register.jpg) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/login.png) |  ![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/medichat.png) |
+| Register New Users | Login User | Chat UI - Create channels, discuss health issues and chat privately to doctors, recieve updates & notification, share media |
