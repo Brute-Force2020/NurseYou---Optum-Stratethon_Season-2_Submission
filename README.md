@@ -29,7 +29,7 @@ Our App keeps the track of patient’s health factors like (BODY TEMPERATURE AND
 ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/architecture.png)
 
 
-![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/architecture1.png)
+![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/architecture2.png)
 
 We are using an ***ESP8266 microcontroller*** to connect the device with the cloud and with the image processing system. And our app is also connected with the same cloud storage so if patient will make gestures, an alarm will ring in the app. Also the temperature and heartbeat reading will be sent to cloud in real-time basis and all of this will be available in our app through which doctor can make report of patients following social distancing.
 
