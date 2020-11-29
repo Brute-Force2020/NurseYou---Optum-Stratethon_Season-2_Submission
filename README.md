@@ -58,16 +58,41 @@ Features we provide:
 9. Auto scroll using Search feature to see and previous messages, newest conversations
 10. ***Support for patients with Color Blindness*** : Our UI also allows patients to change the primary and secondary UI colors so that they can clearly distinguish between the elements present in the UI and choose an interface with colors friendly to the eye.
 
+
 | Register | Login | ChatSpace |
 | --- | --- | --- |
 | ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/register.png) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/login.png) |  ![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/medichat.png) |
 | Register New Users | Login User | Chat UI - Create channels, discuss health issues and chat privately to doctors, recieve updates & notification, share media |
+
+
+
 
 ***Support for patients with Color Blindness***: Change UI color Themes comfortable to the eye (for color blind syndrome) in patients.
 | Theme 1 | Theme 2 |
 | --- | --- |
 | ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/UI1.png) | ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/UI2.png) |
 
+
+
+
 ***We have also developed a special keyboard for typing for handicapped users that can be operated using eye-ball tracker and operates in O(logn) time complexity just like binary search and also has a google search functionality added to it.***
+
 ![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/keyboard.png)
 ![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/eye_control.png)
+
+
+## What we plan to implemement for MediChat in the future ?
+1. Implementing a news section wherein people get daily updates about trends in medicine, COVID cases by calling an external APIs.
+2. Implementing Speech to text NLP engine wherein we can leverage Natural Language Processing techniques and tools like Facebook's Wit.ai to capture the intent of the doctors communicated message and update patient records in the UI in discrete fields like medical prescription, surgery, patient history, along with the timestamp, so that doctors don't face a burnout by having to spend time writing patient records on paper/documents but it can be updated using Speech to Text.
+
+
+### Model to detect allergic ingredients in your food by scanning and identifying the type of food and printing the warning if any
+![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/food_allergies.png)
+
+### A UNIQUE DATA VIZ FOR FOOD ALLERGY MODEL
+Data analysis on various foods from plant and animal sources and plots and conclusions provided
+![1](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/DV1.png)
+![2](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/DV1.png)
+![3](https://github.com/Brute-Force2020/NurseYou---Optum-Stratethon_Season-2_Submission/blob/main/hackathon/DV1.png)
+
+
